@@ -20,3 +20,11 @@ git reset --hard iddocommit -  retornar um determinado comit (versao)
 
 git reset --hard head~1 -  volta uma versao, ~2 volta duas versoes
 
+git clone "endereçso do repositorio
+
+git remote (o proprio github gera esse comando quando criamos o repositorio)
+
+git push -u origin main (subir o remoto)
+
+git pull (verifica 
+
